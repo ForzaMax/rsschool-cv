@@ -29,7 +29,7 @@ console.log(sumResult);
 ## Education
 - **University:** Omsk State Technical University, Electrical engineer
 - **Courses:**
-    - [WEB-разработчик | Udemy](https://www.udemy.com/course/webdeveloper/) (in progress)
+    - [WEB-разработчик](https://www.udemy.com/course/webdeveloper) (in progress)
 
 ## English
 **А2. Elementary**
