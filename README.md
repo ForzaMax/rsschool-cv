@@ -1,1 +1,1 @@
-# rsschool-cv
+https://forzamax.github.io/rsschool-cv/
