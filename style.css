@@ -1,0 +1,82 @@
+body {
+    font-family: 'Euclid Circular A', sans-serif;
+    background-color: #F5F6F7;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.header {
+    margin: 54px 0 20px 0;
+}
+
+.header .header-nav {
+    min-height: 50px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+    border-radius: 10px;
+    background-color: #FFFFFF;  
+}
+
+.header .header-nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header .header-nav li {
+    list-style: none;
+}
+
+.header .header-about {
+    margin-top: 20px;
+    min-height: 161px;
+    border-radius: 10px;
+    background-color: #FFFFFF;  
+}
+
+
+.header .header-about .header-wrapper {
+    display: flex;
+    align-items: start;
+    padding: 37px 42px 38px 28px;
+}
+
+
+.header .header-about .header-wrapper div{
+    margin-left: 23px;
+}
+
+.header .header-about .header-wrapper .name {
+    color: #393E4D;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.header .header-about .header-wrapper .specialty {
+    margin-top: 6px;
+    color: orange;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.header .header-about .header-wrapper .about {
+    margin-top: 6px;
+    color: var(--text, #404553);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
